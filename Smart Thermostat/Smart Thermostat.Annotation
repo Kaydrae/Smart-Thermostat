@@ -1,0 +1,25 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=CPU.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=JTAG.schdoc
+UniqueIDPath1=
+SheetNumber1=2
+DocumentName2=LCD.SchDoc
+UniqueIDPath2=
+SheetNumber2=3
+DocumentName3=MISC.schdoc
+UniqueIDPath3=
+SheetNumber3=4
+DocumentName4=RELAYS.schdoc
+UniqueIDPath4=
+SheetNumber4=5
+DocumentName5=Wi-Fi.schdoc
+UniqueIDPath5=
+SheetNumber5=6
+
+
